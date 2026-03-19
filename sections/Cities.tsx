@@ -28,7 +28,7 @@ export default function Cities() {
     {
       name: 'New York',
       state: 'New York/New Jersey',
-      description: 'The world's stage. Where every nation gathers, every story converges, and football becomes a universal language.',
+      description: 'The world stage. Where every nation gathers, every story converges, and football becomes a universal language.',
       image: '/images/cities/newyork.jpg',
       year: '1994 & 2026',
       color: 'from-blue-400/20 to-indigo-500/20'
