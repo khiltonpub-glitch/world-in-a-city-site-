@@ -12,7 +12,7 @@ export default function CitiesCTA() {
     {
       icon: MapPin,
       title: 'Local Storytelling',
-      description: 'Showcase your city's unique culture, heritage, and World Cup legacy to a global audience.'
+      description: 'Showcase your city unique culture, heritage, and World Cup legacy to a global audience.'
     },
     {
       icon: Building,
