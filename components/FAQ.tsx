@@ -81,7 +81,7 @@ export default function FAQ() {
     },
     {
       question: 'What makes this different from other sports documentaries?',
-      answer: 'This is not a sports broadcast—it's cinematic journalism. We're less interested in match highlights and more focused on how the World Cup reshapes urban culture, drives economic transformation, and creates lasting community legacies. Think Netflix documentary quality meets global football culture.'
+      answer: 'This is not a sports broadcast—it is cinematic journalism. We are less interested in match highlights and more focused on how the World Cup reshapes urban culture, drives economic transformation, and creates lasting community legacies. Think Netflix documentary quality meets global football culture.'
     },
     {
       question: 'How can my brand get involved?',
